@@ -5,4 +5,4 @@ cd lokachakra-dapp
 git init
 
 # Add remote
-git remote add origin https://github.com/YOUR_USERNAME/lokachakra-dapp.git
+git remote add origin https://github.com/yehaditii/lokachakra-dapp.git
